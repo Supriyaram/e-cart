@@ -1,9 +1,0 @@
-MONGO_URI=mongodb://localhost:27017/mydatabase
-# Optional if you need authentication
-MONGO_USER=myuser
-MONGO_PASSWORD=mypassword
-MONGO_DB=mydatabase
-MONGO_HOST=localhost
-MONGO_PORT=27017
-MONGO_AUTHDB=admin
-
