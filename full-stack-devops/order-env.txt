@@ -1,0 +1,7 @@
+MYSQL_HOST=localhost
+MYSQL_PORT=3306
+MYSQL_USER=myuser
+MYSQL_PASSWORD=mypassword
+MYSQL_DATABASE=mydatabase
+# Optional: If you're using a socket instead of TCP
+

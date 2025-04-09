@@ -1,0 +1,7 @@
+REDIS_HOST=localhost
+REDIS_PORT=6379
+REDIS_PASSWORD=mysecretpassword
+REDIS_DB=0
+# Optionally use a single URL to configure the connection
+REDIS_URL=redis://:mysecretpassword@localhost:6379/0
+
